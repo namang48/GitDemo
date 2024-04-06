@@ -14,7 +14,7 @@ class Student extends Person{
 		System.out.println(age);
 		System.out.println(marks);
 		System.out.println(rollNo);
-
+	}
 }
 
 public class Inheritance{
